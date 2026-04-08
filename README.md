@@ -1,2 +1,1 @@
-# yarr-OpenWrt
-yet another rss reader on openwrt
+Этот скрипт лишь выкачивает бинарные файлы yarr, а затем делает из них установочные файлы для операционной системы OpenWRT. Автором yarr (yet another rss reader) является https://github.com/nkanaev, а это лишь скрипт, который позволяет сделать ipk файлы для установки yarr на OpenWRT через системные пакеты.
